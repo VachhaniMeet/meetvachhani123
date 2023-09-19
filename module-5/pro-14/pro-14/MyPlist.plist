@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>States</key>
+	<array>
+		<string>kucch</string>
+		<string>somnath</string>
+		<string>surat</string>
+		<string>ahamdabad</string>
+		<string>rajkot</string>
+	</array>
+	<key>world</key>
+	<array>
+		<string>india</string>
+		<string>shrilanka</string>
+		<string>singapur</string>
+		<string>england</string>
+		<string>australia</string>
+	</array>
+</dict>
+</plist>
